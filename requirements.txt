@@ -9,6 +9,5 @@ filterpy
 scikit-image
 opencv-python
 ipython
-numpy
 
 
